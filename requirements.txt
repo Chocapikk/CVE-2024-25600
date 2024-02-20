@@ -1,0 +1,5 @@
+alive_progress
+bs4
+prompt_toolkit
+requests
+rich
